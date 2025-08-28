@@ -1,0 +1,12 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+dist/
+build/
+.env
+.venv
